@@ -16,5 +16,5 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 
 ## Autor
 
-[Diego Neri]
+# Diego Neri
 
