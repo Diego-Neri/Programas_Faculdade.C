@@ -1,14 +1,20 @@
-# Calculadora de Fatorial em C
-Este é um projeto simples em C que implementa uma função para calcular o fatorial de um número de forma recursiva.
+# Repositório de Projetos Acadêmicos em C
 
-# Descrição
-Este projeto em C consiste em uma implementação simples de uma função para calcular o fatorial de um número de forma recursiva. O fatorial de um número 
-n
-n é o produto de todos os inteiros positivos menores ou iguais a 
-n
-n.
+[![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-A função fatorial foi implementada de forma recursiva, o que significa que ela chama a si mesma para calcular o fatorial de números menores até chegar a 1, o que representa o caso base.
+Este repositório é destinado ao armazenamento dos meus projetos acadêmicos desenvolvidos em C. Aqui você encontrará uma variedade de trabalhos, desde exercícios simples até projetos mais complexos realizados ao longo do meu percurso acadêmico.
 
-Este projeto é útil para estudantes de programação em C que desejam entender e praticar conceitos de recursão e lógica de programação. É um exemplo simples, mas fundamental, de como usar recursão para resolver problemas matemáticos.
+## Como Utilizar
+
+1. Clone o repositório para o seu ambiente local.
+2. Explore os projetos disponíveis.
+3. Compile e execute os projetos de acordo com as instruções individuais de cada um.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Autor
+
+[Diego Neri]
 
